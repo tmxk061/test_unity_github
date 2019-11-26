@@ -8,7 +8,7 @@ public class testscript : MonoBehaviour
     void Start()
     {
 
-       
+        Debug.Log("테스트1");
 
     }
 
