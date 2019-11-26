@@ -15,7 +15,7 @@ public class testscript : MonoBehaviour
 
         Debug.Log("리베이스 테스트용 코드를 한번 바꿔보았다.");
 
-        Debug.Log("리베이스 테스트용 코드를 한번 바꿔보았다.");
+        Debug.Log("리베이스 테스123123123123123트용 코드를 한번 바꿔보았다.");
 
         Debug.Log("리베이스 테스트용 코드를 한번 바꿔보았다.");
 
