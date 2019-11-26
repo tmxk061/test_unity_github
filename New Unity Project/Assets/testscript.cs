@@ -8,6 +8,7 @@ public class testscript : MonoBehaviour
     void Start()
     {
         Debug.Log("2번에서 생성한 코드다");
+        Debug.Log("리베이스 테스트용 코드다");
     }
 
     // Update is called once per frame
